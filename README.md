@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm HassanRJ</h1>
 <h3 align="center">A passionate Student of IT & GenAI web3.0</h3>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" align="right" alt="coding">
-    
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan3108huzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="hassan3108huzaifa" /> </p>
 
@@ -20,12 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hassanrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanrj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassan rj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan rj" height="30" width="40" /></a>
-<a href="https://fb.com/huzaifa hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huzaifa hassan" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.hassanbhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.hassanbhai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alphamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alphamc" height="30" width="40" /></a>
-<a href="https://discord.gg/huzaifa31082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="huzaifa31082" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-rj-148220295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-rj-148220295/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100094610096289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100094610096289" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mr.hassanbhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.hassanbhai/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@aplhamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aplhamc" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/xCu3xt3emv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xCu3xt3emv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan3108huzaifa&show_icons=true&locale=en" alt="hassan3108huzaifa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan3108huzaifa&" alt="hassan3108huzaifa" /></p>
-
