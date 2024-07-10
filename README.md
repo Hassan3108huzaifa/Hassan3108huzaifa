@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hassan-rj-148220295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-rj-148220295" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.hassanbhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.hassanbhai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@aplhamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aplhamc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aplhamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aplhamc" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xCu3xt3emv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xCu3xt3emv" height="30" width="40" /></a>
 </p>
 
