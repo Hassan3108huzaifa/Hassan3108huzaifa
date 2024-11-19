@@ -1,20 +1,20 @@
 ![logo](https://github.com/Hassan3108huzaifa/Hassan3108huzaifa/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm HassanRJ</h1>
-<h3 align="center">A passionate Student of IT & GenAI web3.0</h3>
+<h3 align="center">I specialize in crafting stunning, responsive, and fully functional websites tailored to your needs. As a passionate student of IT and Web 3.0 technologies, I’m dedicated to exploring the frontiers of Generative AI at Governor House. Looking ahead, I aspire to dive deep into Agentic AI, InshaAllah, shaping the future of intelligent systems.</h3> 
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan3108huzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="hassan3108huzaifa" /> </p>
 
-- I'm Currently learning **typescript, next.js, python**
+- I'm Currently learning **NextJS, TypeScript, TailwindCSS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Hassan_Bhai](https://linktr.ee/Hassan_Bhai)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://hassanrj-port.vercel.app/)
 
-- 💬 Ask me about **typescript, javascript, python**
+- 💬 Ask me about **NextJS, TypeScript, TailwindCSS, MongoDB**
 
 - 📫 How to reach me **huzaifa3108hassan@gmail.com**
 
-- 📄 Know about my experiences [https://dev-hassanrj.pantheonsite.io/](https://dev-hassanrj.pantheonsite.io/)
+- 📄 Know about my experiences in [My Personal Portfolio.](https://hassanrj-port.vercel.app/)
 
 - ⚡ Fun fact **focusing on carrier 😁**
 
